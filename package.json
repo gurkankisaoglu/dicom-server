@@ -15,5 +15,15 @@
   "bugs": {
     "url": "https://github.com/gurkankisaoglu/dicom-server/issues"
   },
-  "homepage": "https://github.com/gurkankisaoglu/dicom-server#readme"
+  "homepage": "https://github.com/gurkankisaoglu/dicom-server#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "chalk": "^3.0.0",
+    "config": "^3.2.5",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "moment": "^2.24.0",
+    "mongoose": "^5.9.1",
+    "morgan": "^1.9.1"
+  }
 }
